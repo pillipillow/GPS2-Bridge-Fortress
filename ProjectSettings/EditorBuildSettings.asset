@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/SplashScreen.unity
+    guid: ed03f4b6a46b27443bb01eef44a57e90
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Main Menu.unity
+    guid: e8f30189782c9c64592a8b92110e1ca8
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level Select.unity
+    guid: d945b16860fa6cd4da483147e70045e1
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level Select 2.unity
+    guid: 20ed8bd4896021f4698a4cbd28c9a276
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level Select 3.unity
+    guid: f5fb905887b710c409f70999d35ee4a9
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Level 0.unity
+    guid: 2afa891b9c7b7eb4692f19ead1f05853
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 1.unity
+    guid: f43fa002ccef4cf4cb4dd26b3d07b68c
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 2.unity
+    guid: 62433eeee5039a149a52c4f934baf8bc
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 3.unity
+    guid: aaf8dccbc3171d24e995e277b9d2237c
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 4.unity
+    guid: 702197b003379524f90a5698d7274c76
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 5.unity
+    guid: bbc837127ebafc9429fbf4bcdd3f6023
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 6.unity
+    guid: e1f19c7719732e740840cfeff54fddb0
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 7.unity
+    guid: 634ffd943786c5c45888d83808ae3930
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 8.unity
+    guid: a7180f1a598a78943a4fa40ff77a1038
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 9.unity
+    guid: 5eec50e6da4961048934ef95087ed078
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 10.unity
+    guid: 14b3f5bb214cac64a9d1023e9d012d1a
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 11.unity
+    guid: 4505f155f8dea1f4ab48426f8794a3d0
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 12.unity
+    guid: 2920b8a1a88af2b48b6808fdd69e6104
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 13.unity
+    guid: 10f080813b43ad247b04c6025dfe7a80
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 14.unity
+    guid: e7d7ce2dce9bdea43a7fa49c11ceed9c
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 15.unity
+    guid: 99a59d7b661eb0d4092b2278a1d112a4
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 16.unity
+    guid: 55ad15a038dea3c46bd55a34838fbf23
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 17.unity
+    guid: 61315ef11ca9abd4fa8933c96a7bf0c3
+  - enabled: 1
+    path: Assets/Main Folder/Scenes/Levels/Level 18.unity
+    guid: 00000000000000000000000000000000

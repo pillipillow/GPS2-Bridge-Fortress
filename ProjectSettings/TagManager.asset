@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - EndPoint
+  - Walkable
+  - Crank
+  - RotatingBridge
+  - Enemy
+  - Knight
+  - FloorPad
+  - ShieldButton
+  - Spike
+  - Checkpoint
+  - Bomb
+  - Squire
+  - Shield
+  - Spring
+  - ThrowManager
+  - ArrowTrap
+  - FlashBomb
+  - Stairs
+  - SoundManager
+  - BreathParticles
+  - FireWall
+  - FreezeableCube
+  - FreezeableHalfCube
+  - FadeInOutManager
+  - Arrow
+  - PressurePlate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walkable
+  - SquireLayer
+  - Wall
+  - Enemy
+  - Knight
+  - EndPoint
+  - RotatingBridge
+  - KnightLayer
+  - Stairs
+  - Flash
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
